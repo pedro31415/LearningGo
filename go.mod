@@ -1,4 +1,4 @@
-module LearningGo
+module github.com/pedro31415/LearningGo
 
 go 1.23.0
 
